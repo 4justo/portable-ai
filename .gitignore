@@ -1,5 +1,5 @@
 *.gguf
 *.llamafile
 *.bin
-llamafile-0.10.6
+llamafile-*
 llamafile.exe
