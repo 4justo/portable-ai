@@ -1,0 +1,5 @@
+*.gguf
+*.llamafile
+*.bin
+llamafile
+llamafile.exe
